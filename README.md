@@ -105,11 +105,5 @@ Then, open your browser and visit:
 - 📱 Mobile app for easy access
 - 💬 Multilingual support for farmers
 
----
-
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
